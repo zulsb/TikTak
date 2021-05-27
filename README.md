@@ -2,12 +2,12 @@
 
 ## Contents
 
-* [Description](https://github.com/zulsb/Claras-que-si#description)
-* [Requirements](https://github.com/zulsb/Claras-que-si#requirements)
-* [Files](https://github.com/zulsb/Claras-que-si#repository-contents)
-* [How to install](https://github.com/zulsb/Claras-que-si#how-to-install)
-* [Screenshots](https://github.com/zulsb/Claras-que-si#screenshots)
-* [Authors](https://github.com/zulsb/Claras-que-si#authors)
+* [Description](https://github.com/zulsb/TikTak#description)
+* [Requirements](https://github.com/zulsb/TikTak#requirements)
+* [Files](https://github.com/zulsb/TikTak#repository-contents)
+* [How to install](https://github.com/zulsb/TikTak#how-to-install)
+* [Screenshots](https://github.com/zulsb/TikTak#screenshots)
+* [Author](https://github.com/zulsb/TikTak#authors)
 
 
 ## Description
@@ -22,7 +22,7 @@ TikTok clone with user authentication, allows to upload videos and view them in 
 ## How to install
 
 ```bash
-- git clone https://github.com/zulsb/Claras-que-si.git
+- git clone https://github.com/zulsb/TikTak.git
 - npm install
 - npm run start
 ```
@@ -64,7 +64,7 @@ User information, video logs and logout.
 ![Profile](https://user-images.githubusercontent.com/7723544/119774352-aa2efa80-be87-11eb-8520-daf21f63e738.png)
 
 
-## Authors
+## Author
 
 * #### Luz Sánchez Bolaños
 [<img src="https://img.shields.io/badge/LuzSanchez-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/luzsanchezb/)
