@@ -7,7 +7,7 @@
 * [Files](https://github.com/zulsb/TikTak#repository-contents)
 * [How to install](https://github.com/zulsb/TikTak#how-to-install)
 * [Screenshots](https://github.com/zulsb/TikTak#screenshots)
-* [Author](https://github.com/zulsb/TikTak#authors)
+* [Author](https://github.com/zulsb/TikTak#author)
 
 
 ## Description
