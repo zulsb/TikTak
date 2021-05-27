@@ -1,0 +1,9 @@
+POST http://localhost:3000/likes HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjIxMjk3MTIyLCJleHAiOjE2MjM4ODkxMjJ9.yw4I-JaZ7LcJQ-qS67L6lmfJGVYPrOF1UxGtu57IGws
+Content-Type: application/json
+
+{
+  "like":{
+    "videoId": 13
+  }
+}
