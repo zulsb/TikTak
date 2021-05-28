@@ -7,7 +7,6 @@
 * [Files](https://github.com/zulsb/TikTak#repository-contents)
 * [How to install](https://github.com/zulsb/TikTak#how-to-install)
 * [Screenshots](https://github.com/zulsb/TikTak#screenshots)
-* [Author](https://github.com/zulsb/TikTak#author)
 
 
 ## Description
@@ -64,7 +63,7 @@ User information, video logs and logout.
 ![Profile](https://user-images.githubusercontent.com/7723544/119774352-aa2efa80-be87-11eb-8520-daf21f63e738.png)
 
 
-## Author
+## Software developer
 
 * #### Luz Sánchez Bolaños
 [<img src="https://img.shields.io/badge/LuzSanchez-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/luzsanchezb/)
